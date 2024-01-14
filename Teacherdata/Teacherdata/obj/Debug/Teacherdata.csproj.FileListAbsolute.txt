@@ -1,0 +1,7 @@
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\bin\Debug\Teacherdata.exe.config
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\bin\Debug\Teacherdata.exe
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\bin\Debug\Teacherdata.pdb
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\obj\Debug\Teacherdata.csproj.AssemblyReference.cache
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\obj\Debug\Teacherdata.csproj.CoreCompileInputs.cache
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\obj\Debug\Teacherdata.exe
+C:\Users\anves\OneDrive\Mphasis\Teacherdata\Teacherdata\obj\Debug\Teacherdata.pdb
